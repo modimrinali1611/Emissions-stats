@@ -2,10 +2,6 @@ library(dplyr)
 library(readxl)
 library(openxlsx)
 library(lubridate)
-library(stringr)
-library(forcats)
-library(viridis)
-library(lubridate)
 library(purrr)
 
 # Helper: find stable periods within a group for a specific species
