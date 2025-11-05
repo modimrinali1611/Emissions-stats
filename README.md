@@ -25,8 +25,4 @@ In this script:
 - dplyr
 - readxl
 - openxlsx
-- lubridate
-- stringr
-- forcats
-- viridis
 - purrr
